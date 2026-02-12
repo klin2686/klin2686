@@ -1,4 +1,8 @@
-<img width="100%" alt="Kenneth" src="https://github.com/user-attachments/assets/9d783a1e-b488-4e1a-a432-cb9f7c06bef2" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/9d783a1e-b488-4e1a-a432-cb9f7c06bef2">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/9545a944-45c7-4993-84a5-f921856f9b7c">
+  <img width="100%" alt="Kenneth" src="https://github.com/user-attachments/assets/9d783a1e-b488-4e1a-a432-cb9f7c06bef2">
+</picture>
 
 ## About Me
 
@@ -30,6 +34,14 @@
 ## My GitHub Stats
 
 <div>
-  <img style="height: 180px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&hide_rank=true&theme=dark" />
-  <img style="height: 180px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&hide_rank=true&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&hide_rank=true&theme=default">
+    <img style="height: 180px;" alt="Github Stats" src="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&hide_rank=true&theme=dark">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=default">
+    <img style="height: 180px;" alt="Github Language Stats" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=dark">
+  </picture>
 </div>
