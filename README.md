@@ -30,6 +30,6 @@
 ## My GitHub Stats
 
 <div>
-  <img style="height: 200px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&theme=dark" />
-  <img style="height: 200px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=dark" />
+  <img style="height: 180px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api?username=klin2686&show_icons=true&hide_rank=true&theme=dark" />
+  <img style="height: 180px;" src="https://github-readme-stats-pink-ten-75.vercel.app/api/top-langs?username=klin2686&layout=compact&theme=dark" />
 </div>
