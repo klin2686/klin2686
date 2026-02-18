@@ -8,7 +8,7 @@
 
 - I'm a first-year Computer Science student at UC Irvine with an interest in backend and full-stack development.
 
-- My recent projects include an AI-powered interview practice platform using FastAPI, PostgreSQL, and cloud-deployed services, where I’ve been working with asynchronous APIs, background tasks, and AI services.
+- My recent projects include a multimodal PC building assistant that combines a voice agent, RAG-based knowledge retrieval, and real-time, client-side computer vision to guide users through component selection and physical assembly.
 
 - I’m working on learning more about asynchronous Python, database optimization, and containerized deployments on platforms like Azure, while also exploring how modern AI services (LLMs, speech-to-text, vision models) can be integrated reliably into real applications.
 
