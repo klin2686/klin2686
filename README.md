@@ -6,7 +6,7 @@
 
 ## About Me
 
-- I'm a Computer Science student at UC Irvine exploring different specializations within CS
+- I'm a Computer Science student at UC Irvine
 - My current background is mainly in backend development, but I'm interested in exploring other areas and expanding my skills
 
 ## Skills
